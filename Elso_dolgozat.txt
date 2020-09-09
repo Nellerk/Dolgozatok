@@ -1,0 +1,4 @@
+1. Egy beépített sablon (konzol), amelyet személyre lehet szabni, a Windows-on belül.
+2. Pl.: Rövid dátum, a hét első napja, negatív számformátumok, tizedes jegyek beállítása, számjegyek csoportosítása.
+3. Információkat tartalmaz pl.: telepített hardvereszközök, eszköz-illesztőprogramok, Használhatósága: Leginkább hibakódok megkeresése.
+4. A fizikai tárhelyen (HDD, SSD) belül egy részt elkülöníteni, ha az alap memória (RAM) túl van terhelve tartósan. Van neki "kezdeti" és "maximális" mérete.
