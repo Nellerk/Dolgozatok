@@ -1,0 +1,4 @@
+B. csoport
+1. Mit jelent a <!DOCTYPE HTML> elem?: A weblap kódolását típusát jelenti.
+2. Hogyan definiáljuk a belső stílust a head elemben?: pl.: style="background color=", 
+3. Emmet utasítás átírása: <p>Példa<span>Ez egy példa</span></p>
